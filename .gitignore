@@ -1,0 +1,7 @@
+# Pasta de ambiente virtual
+venv/
+
+# Arquivos de compilação
+*.pyc
+*.pyo
+__pycache__/
